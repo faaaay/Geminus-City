@@ -23,7 +23,7 @@ maps/Geminus/backup/geminus-2.dmm
 /config/*	
 !/config/*/*
 !config/config.txt
-#config/admins.txt
+config/admins.txt
 #config/access levels.txt
 #config/alienwhitelist.txt
 !config/custom_items.txt
