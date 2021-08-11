@@ -31,7 +31,7 @@ config/admins.txt
 #config/dbconfig.txt
 #config/forumdbconfig.txt
 #config/game_options.txt
-#config/mentors.txt
+config/mentors.txt
 #config/jobs.txt
 #config/moderators.txt
 #config/motd.txt
